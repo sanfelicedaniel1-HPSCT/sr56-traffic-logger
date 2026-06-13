@@ -3,7 +3,7 @@ import os
 import requests
 from datetime import datetime
 
-API_KEY = "AIzaSyA4uTFMFabuvxtppxMMToUZ4W8_FY7aCcM"
+API_KEY = "<insert API key>"
 
 HEADERS = {
     "Content-Type": "application/json",
